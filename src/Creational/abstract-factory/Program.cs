@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AbstractFactory
+namespace Dp.Creational.AbstractFactory
 {
     class Program
     {

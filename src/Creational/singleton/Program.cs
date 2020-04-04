@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Singleton
+namespace Dp.Creational.Singleton
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Prototype
+namespace Dp.Creational.Prototype
 {
     class Program
     {
