@@ -1,0 +1,5 @@
+{
+  "MercedesFactory": "Dp.Creational.AbstractFactory.Factory.MercedesFactory",
+  "PorscheFactory": "Dp.Creational.AbstractFactory.Factory.PorscheFactory",
+  "VolvoFactory": "Dp.Creational.AbstractFactory.Factory.VolvoFactory"
+}
